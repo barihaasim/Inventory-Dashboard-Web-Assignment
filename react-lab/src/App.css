@@ -1,0 +1,48 @@
+.app {
+  padding: 25px;
+  min-height: 100vh;
+}
+
+.light {
+  background-color: #eaf2f8;
+  color: #263746;
+}
+
+.dark {
+  background-color: #1b2631;
+  color: #ecf0f1;
+}
+
+.card {
+  background-color: #ffffff;
+  border: 1px solid #cbd5e1;
+  padding: 15px;
+  margin: 12px 0;
+  border-radius: 8px;
+}
+
+.badge {
+  padding: 4px 8px;
+  color: white;
+  border-radius: 4px;
+}
+
+.green {
+  background-color: #218838;
+}
+
+.orange {
+  background-color: #d98200;
+}
+
+.red {
+  background-color: #c0392b;
+}
+
+.toast {
+  background-color: #d6eaf8;
+  color: #154360;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 5px;
+}
